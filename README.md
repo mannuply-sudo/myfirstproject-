@@ -1,4 +1,3 @@
-
 # Hello, My Name is Aditya! 👋
 
 My first project on GitHub.
