@@ -1,4 +1,6 @@
-# myfirstproject-
-my first project on GitHub 
-Hello my name is aditya !
-this is my first project on GitHub I am learning to become a developer 
+
+# Hello, My Name is Aditya! 👋
+
+My first project on GitHub.
+I am learning to become a developer.
+I want to learn Website, App and Game - All Three!
